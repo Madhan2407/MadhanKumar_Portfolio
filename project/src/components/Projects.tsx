@@ -20,8 +20,8 @@ const projects: Project[] = [
     description: 'Voice chatbot with file upload & summarization features.',
     techTags: ['Python', 'NLP', 'Speech-to-Text', 'Summarization'],
     imageUrl: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600',
-    category: 'AI/ML'
-    repoUrl: 'https://github.com/Madhan2407/AICHATBOT'
+    category: 'AI/ML',
+    repoUrl: 'https://github.com/Madhan2407/AICHATBOT',
     demoUrl: 'https://github.com/Madhan2407/AICHATBOT'
   },
   {
@@ -30,8 +30,8 @@ const projects: Project[] = [
     description: 'Responsive portfolio with project showcase.',
     techTags: ['React', 'Tailwind', 'Responsive Web Design'],
     imageUrl: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
-    category: 'Web Development'
-    repoUrl: 'https://github.com/Madhan2407/salman_portfolio/tree/main/project-bolt-github-uwri61kw/project'
+    category: 'Web Development',
+    repoUrl: 'https://github.com/Madhan2407/salman_portfolio/tree/main/project-bolt-github-uwri61kw/project',
     demoUrl: 'https://github.com/Madhan2407/salman_portfolio/tree/main/project-bolt-github-uwri61kw/project'
   },
   {
@@ -40,8 +40,8 @@ const projects: Project[] = [
     description: 'Smart chatbot for handling customer queries.',
     techTags: ['NLP', 'Chatbot', 'Python'],
     imageUrl: 'https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&w=600',
-    category: 'AI/ML'
-    repoUrl: 'https://github.com/Madhan2407/AI-Custom_bot'
+    category: 'AI/ML',
+    repoUrl: 'https://github.com/Madhan2407/AI-Custom_bot',
     demoUrl: 'https://github.com/Madhan2407/AI-Custom_bot'
   }
 ];
