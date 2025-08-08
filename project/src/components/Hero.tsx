@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
               {/* Quick Links */}
               <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start space-y-3 sm:space-y-0 sm:space-x-3 lg:space-x-4 pt-4 px-4 lg:px-0">
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/madhan-kumar-p-759402324/"
                   className="flex items-center justify-center space-x-2 px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors group w-full sm:w-auto"
                   aria-label="LinkedIn - Link coming soon"
                 >
@@ -80,7 +80,7 @@ const Hero: React.FC = () => {
                   <span>LinkedIn</span>
                 </a>
                 <a
-                  href="#"
+                  href="https://github.com/Madhan2407"
                   className="flex items-center justify-center space-x-2 px-6 py-3 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition-colors group w-full sm:w-auto"
                   aria-label="GitHub - Link coming soon"
                 >
