@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = '#';
+    link.href = 'https://drive.google.com/file/d/1BTBeBWzGgqJoJ6GnMdNFNxlhl4m8N8-K/view?usp=sharing';
     link.download = 'Madhan_Kumar_P_Resume.pdf';
     link.click();
   };
